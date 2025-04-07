@@ -1,0 +1,8 @@
+# Ignore all .edges files
+*.edges
+
+# Ignore all .html files
+*.html
+
+# Ignore everything inside the data folder
+data/
