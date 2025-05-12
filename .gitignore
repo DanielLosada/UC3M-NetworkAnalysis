@@ -5,4 +5,5 @@
 *.html
 
 # Ignore everything inside the data folder
-data/
+data/mammalia-macaque-dominance.edges
+data/readme.html
